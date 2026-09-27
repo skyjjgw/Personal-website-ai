@@ -176,6 +176,7 @@ AI 时代，让每个人都能拥有一张属于自己的**数字名片** ——
 
 - **演示**：[Starry Museum](https://skyjjgw.github.io/starry-museum-portfolio/)
 - **GitHub**：[模板源码](https://github.com/skyjjgw/starry-museum-portfolio)
+- **X**: [@skyjjgw](https://x.com/skyjjgw)
 - **参考文档**：[templates/starry-museum.md](templates/starry-museum.md)
 - **亮点**：流动《星月夜》、实木画框与可直接操作的 HTML 展品，结合项目封面、翻页手记和倾斜简介卡；可选慢速自动浏览、暂停、减少动态与移动端渲染限制。人物和项目均为虚构示例，不是客户案例。
 

@@ -176,6 +176,7 @@ The gallery is a **customer-acquisition / SEO asset**, not the product: it's the
 
 - **Demo**: [Starry Museum](https://skyjjgw.github.io/starry-museum-portfolio/)
 - **GitHub**: [Template source](https://github.com/skyjjgw/starry-museum-portfolio)
+- **X**: [@skyjjgw](https://x.com/skyjjgw)
 - **Reference**: [templates/starry-museum.md](templates/starry-museum.md)
 - **Highlights**: Flowing Starry Night background, oak-framed live HTML exhibits, interactive project covers, page-turn notes and a tilting profile card. Optional slow autoplay, pause, reduced-motion support and mobile rendering limits. All profile/project data is fictional; this is a reusable template, not a customer case study.
 
