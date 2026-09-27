@@ -6,6 +6,8 @@
 
 - 名称：Starry Museum / 星夜作品馆
 - 源码：[https://github.com/skyjjgw/starry-museum-portfolio](https://github.com/skyjjgw/starry-museum-portfolio)
+- 作者原站：[skyjjgw.com](https://skyjjgw.com)（真实个人网站，与匿名模板演示区分）
+- 联系邮箱：[skyjjgw@gmail.com](mailto:skyjjgw@gmail.com)
 - 类型：可 Fork 的匿名模板，所有人物资料和项目均为虚构演示
 - 技术栈：静态 HTML / CSS / JavaScript、Three.js，esbuild 生成已附带的运行文件
 - 语言：中文展馆导航 + 英文示例展品；没有自动双语切换
